@@ -132,7 +132,7 @@ function App() {
         <br />
         <br />
         <Button type="submit" variant="success">
-          Add Teacher
+          Add Youtuber
         </Button>
       </form>
     </div>
